@@ -1,1 +1,2 @@
 # task
+pip install django
